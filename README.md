@@ -1,56 +1,88 @@
-<!--- RGB Strip thin --->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABS-CR7/ABS-CR7/master/assets/Hi.gif" width="40px" />
+  Hi there, I'm Salina 👋
+</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Salina00&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://www.linkedin.com/in/karan2005/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Salina00" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<!-- description-->
-- 👋 Hi, I'm Salina
-- I am interested in coding and solving real world problems
-- 🎓 Second-Year Computer Science Engineering Student at **PICT**   
-- 💡 Passionate about Technology, Problem Solving & Continuous Learning  
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
+- 🎓 Second-Year Computer Science Engineering Student at **PICT**
+- 💡 Passionate about Technology, Problem Solving & Continuous Learning
 - 💻 Currently learning **Data Structures & Algorithms in C++**
-- 🧠 Strong interest in problem-solving and logical thinking
+- 🧠 Strong interest in logical thinking and problem-solving
 - 🎯 Goal: Building a strong foundation in Computer Science
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages & Tools
+### 👩‍💻 Programming Languages
 
 <p align="left">
-
-<a href="https://en.cppreference.com/w/c/language" target="_blank">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</a>
-
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</a>
-
-<a href="https://react.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.cplusplus.com/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
 </p>
+
+---
+
+### 🌐 Development Stack
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+</p>
+
+---
+
+### 🧰 Development Tools
+
+<p align="left">
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://docs.github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+</p>
+
+---
 
 ## 📈 Goals
 
@@ -63,10 +95,9 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: (www.linkedin.com/in/salina-tamboli)
-- Email: (salina.tamboli06@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/salina-tamboli](https://www.linkedin.com/in/salina-tamboli)
+- 📧 Email: salina.tamboli06@gmail.com  
 
 ---
 
 ⭐ *Consistency beats motivation.*
-

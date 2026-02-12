@@ -83,7 +83,11 @@
 </p>
 
 ---
+##  GitHub Activity Graph
 
+[![Salina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salina00&bg_color=000000&color=ffffff&line=426ef0&point=ffffff&area=true&hide_border=true)](https://github.com/Salina00/github-readme-activity-graph)
+
+---
 ## 📈 Goals
 
 - Strengthen DSA & problem-solving skills  
